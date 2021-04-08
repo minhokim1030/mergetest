@@ -13,4 +13,8 @@ let adder = function (x, y) {
   function addpm (x, y) {
     return (x - x) / y;
   };
+
+  function test (x) {
+    return null;
+  }
  
