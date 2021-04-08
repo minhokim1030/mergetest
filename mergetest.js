@@ -13,5 +13,4 @@ let adder = function (x, y) {
   function addplus (x, y) {
     return (x + x) - y;
   };
-  
-  
+ 
