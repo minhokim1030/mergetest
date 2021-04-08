@@ -10,7 +10,7 @@ let adder = function (x, y) {
   function remainder (x, y) {
     return x % y;
   };
-  function addplus (x, y) {
-    return (x + x) - y;
+  function addpm (x, y) {
+    return (x - x) / y;
   };
  
