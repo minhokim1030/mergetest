@@ -1,5 +1,5 @@
-let adder = function (x, y) {
-    return x + y;
+let adder = function (x, y, c) {
+    return x + y / c;
   };
   var divide = function (x, y) {
     return x / y;
