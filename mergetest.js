@@ -1,4 +1,4 @@
-let adder = function (x) {
+let adder1 = function (y) {
     return x + y / c;
   };
   
@@ -11,14 +11,14 @@ let adder = function (x) {
   };
   
   function replaadasd (y) {
-    return result;
+    return test;
   }
   function pmapm (x, y) {
     return (x - x) / y;
   };
 
   function test (y) {
-    return result;
+    return null;
   }
  
   var d11iveerrrrrrrr = function (x, y) {
