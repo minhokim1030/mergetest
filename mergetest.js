@@ -1,12 +1,15 @@
-let adder = function (x, y) {
-    return x + y;
+let adder = function (x) {
+    return x + y / c;
   };
-  var divide = function (x, y) {
-    return x / y;
-  };
+  
   let multipart = function (x, y) {
     return x * y;
   };
+
+  var dive = function (x, y) {
+    return x / y;
+  };
+  
   function remainder (x, y) {
     return x % y;
   };
