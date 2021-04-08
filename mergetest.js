@@ -6,14 +6,14 @@ let adder = function (x) {
     return x * y;
   };
 
-  var dive = function (x, y) {
-    return x / y;
+  var diveerrrrrrrr = function (x, y) {
+    return x / y + 1;
   };
   
-  function remainder (x, y) {
-    return x % y;
-  };
-  function addpm (x, y) {
+  function replaadasd (y) {
+    return result;
+  }
+  function pmapm (x, y) {
     return (x - x) / y;
   };
 
@@ -21,3 +21,7 @@ let adder = function (x) {
     return result;
   }
  
+  var d11iveerrrrrrrr = function (x, y) {
+    return x / y + 1;
+  };
+
