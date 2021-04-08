@@ -14,7 +14,7 @@ let adder = function (x, y) {
     return (x - x) / y;
   };
 
-  function test (x) {
-    return null;
+  function test (te1) {
+    return adder;
   }
  
