@@ -15,6 +15,6 @@ let adder = function (x, y) {
   };
 
   function test (te1) {
-    return adder;
+    return null;
   }
  
